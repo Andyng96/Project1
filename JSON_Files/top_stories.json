@@ -1,0 +1,2571 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2020 The New York Times Company. All Rights Reserved.",
+  "section": "Business",
+  "last_updated": "2020-10-01T22:11:32-04:00",
+  "num_results": 33,
+  "results": [
+    {
+      "section": "business",
+      "subsection": "economy",
+      "title": "New Layoffs Add to Worries Over U.S. Economic Slowdown",
+      "abstract": "A standoff over further federal aid and concern over the pandemic\u2019s duration are pushing companies to eliminate jobs.",
+      "url": "https://www.nytimes.com/2020/10/01/business/economy/layoffs-unemployment-claims.html",
+      "uri": "nyt://article/4f7e34fc-4a83-57dc-8561-50c4af975bed",
+      "byline": "By Nelson D. Schwartz and Gillian Friedman",
+      "item_type": "Article",
+      "updated_date": "2020-10-02T02:33:18-04:00",
+      "created_date": "2020-10-01T18:12:15-04:00",
+      "published_date": "2020-10-01T18:12:15-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "United States Economy",
+        "Layoffs and Job Reductions",
+        "Labor and Jobs",
+        "Stimulus (Economic)",
+        "Coronavirus (2019-nCoV)",
+        "Unemployment Insurance",
+        "United States Politics and Government",
+        "Unemployment",
+        "Coronavirus Aid, Relief, and Economic Security Act (2020)",
+        "Law and Legislation",
+        "Recession and Depression"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/business/01markets-brf-jobless2/merlin_177755772_cec54199-a9e5-4ac5-8202-a701c46717ee-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The travel, entertainment, and leisure and hospitality industries have been hit hard by the pandemic. A Las Vegas bar this week had seats aplenty.",
+          "copyright": "Bridget Bennett for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/business/01markets-brf-jobless2/01markets-brf-jobless2-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The travel, entertainment, and leisure and hospitality industries have been hit hard by the pandemic. A Las Vegas bar this week had seats aplenty.",
+          "copyright": "Bridget Bennett for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/business/01markets-brf-jobless2/01markets-brf-jobless2-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The travel, entertainment, and leisure and hospitality industries have been hit hard by the pandemic. A Las Vegas bar this week had seats aplenty.",
+          "copyright": "Bridget Bennett for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/business/01markets-brf-jobless2/merlin_177755772_cec54199-a9e5-4ac5-8202-a701c46717ee-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The travel, entertainment, and leisure and hospitality industries have been hit hard by the pandemic. A Las Vegas bar this week had seats aplenty.",
+          "copyright": "Bridget Bennett for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/business/01markets-brf-jobless2/merlin_177755772_cec54199-a9e5-4ac5-8202-a701c46717ee-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The travel, entertainment, and leisure and hospitality industries have been hit hard by the pandemic. A Las Vegas bar this week had seats aplenty.",
+          "copyright": "Bridget Bennett for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3cMn1l9"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "Airlines, Facing a Painfully Slow Recovery, Begin Furloughing Thousands",
+      "abstract": "With few people traveling and lawmakers deadlocked on a stimulus package, American Airlines and United Airlines are cutting more than 30,000 jobs.",
+      "url": "https://www.nytimes.com/2020/10/01/business/airline-furloughs-coronavirus-united-american.html",
+      "uri": "nyt://article/47603d9e-fd93-5393-afc1-67e87bc5a653",
+      "byline": "By Niraj Chokshi",
+      "item_type": "Article",
+      "updated_date": "2020-10-02T00:45:05-04:00",
+      "created_date": "2020-10-01T16:56:49-04:00",
+      "published_date": "2020-10-01T16:56:49-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Airlines and Airplanes",
+        "Layoffs and Job Reductions",
+        "Coronavirus (2019-nCoV)",
+        "United States Economy",
+        "United States Politics and Government",
+        "Law and Legislation",
+        "Coronavirus Aid, Relief, and Economic Security Act (2020)",
+        "Stimulus (Economic)",
+        "Travel and Vacations"
+      ],
+      "org_facet": [
+        "United Airlines",
+        "American Airlines",
+        "Delta Air Lines Inc",
+        "Southwest Airlines Company",
+        "Treasury Department"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "United States"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/business/01virus-airlines3/merlin_177910275_7532e868-f622-44bb-8b3f-a729707c70fa-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1367,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "American Airlines and United Airlines said they would reverse the cuts if Congress and the Trump administration reached an agreement to extend more aid to the industry.",
+          "copyright": "Stephanie Keith for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/business/01virus-airlines3/01virus-airlines3-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "American Airlines and United Airlines said they would reverse the cuts if Congress and the Trump administration reached an agreement to extend more aid to the industry.",
+          "copyright": "Stephanie Keith for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/business/01virus-airlines3/01virus-airlines3-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "American Airlines and United Airlines said they would reverse the cuts if Congress and the Trump administration reached an agreement to extend more aid to the industry.",
+          "copyright": "Stephanie Keith for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/business/01virus-airlines3/01virus-airlines3-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "American Airlines and United Airlines said they would reverse the cuts if Congress and the Trump administration reached an agreement to extend more aid to the industry.",
+          "copyright": "Stephanie Keith for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/business/01virus-airlines3/merlin_177910275_7532e868-f622-44bb-8b3f-a729707c70fa-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "American Airlines and United Airlines said they would reverse the cuts if Congress and the Trump administration reached an agreement to extend more aid to the industry.",
+          "copyright": "Stephanie Keith for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/30GUY1N"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "Despite Billions in Fees, Banks Predict Meager Profits on P.P.P. Loans",
+      "abstract": "Banks collected at least $13 billion in fees on Paycheck Protection Program loans, according to a New York Times analysis. But the largest lenders say costs wiped out most of what they took in.",
+      "url": "https://www.nytimes.com/2020/10/01/business/ppp-loans-bank-profits.html",
+      "uri": "nyt://article/472b80ab-2ad0-58c3-a698-6a0a02e4b8fe",
+      "byline": "By Stacy Cowley",
+      "item_type": "Article",
+      "updated_date": "2020-10-02T00:46:04-04:00",
+      "created_date": "2020-10-01T14:10:11-04:00",
+      "published_date": "2020-10-01T14:10:11-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Banking and Financial Institutions",
+        "Philanthropy",
+        "Coronavirus (2019-nCoV)",
+        "Coronavirus Aid, Relief, and Economic Security Act (2020)"
+      ],
+      "org_facet": [
+        "JPMorgan Chase & Company",
+        "Bank of America Corporation",
+        "Citigroup Inc",
+        "Wells Fargo & Company"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/business/00pppfees1/merlin_174522024_06b86ddb-65cf-4821-96a9-e1d8b79f7070-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1374,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "JPMorgan Chase collected fees on $29 billion in Paycheck Protection Program loans, but the bank\u2019s chief financial officer says its profits \u201cwill be near zero.\u201d\u00a0",
+          "copyright": "Johannes Eisele/Agence France-Presse \u2014 Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/business/00pppfees1/00pppfees1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "JPMorgan Chase collected fees on $29 billion in Paycheck Protection Program loans, but the bank\u2019s chief financial officer says its profits \u201cwill be near zero.\u201d\u00a0",
+          "copyright": "Johannes Eisele/Agence France-Presse \u2014 Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/business/00pppfees1/00pppfees1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "JPMorgan Chase collected fees on $29 billion in Paycheck Protection Program loans, but the bank\u2019s chief financial officer says its profits \u201cwill be near zero.\u201d\u00a0",
+          "copyright": "Johannes Eisele/Agence France-Presse \u2014 Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/business/00pppfees1/00pppfees1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "JPMorgan Chase collected fees on $29 billion in Paycheck Protection Program loans, but the bank\u2019s chief financial officer says its profits \u201cwill be near zero.\u201d\u00a0",
+          "copyright": "Johannes Eisele/Agence France-Presse \u2014 Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/business/00pppfees1/merlin_174522024_06b86ddb-65cf-4821-96a9-e1d8b79f7070-articleInline.jpg",
+          "format": "Normal",
+          "height": 128,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "JPMorgan Chase collected fees on $29 billion in Paycheck Protection Program loans, but the bank\u2019s chief financial officer says its profits \u201cwill be near zero.\u201d\u00a0",
+          "copyright": "Johannes Eisele/Agence France-Presse \u2014 Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/3nbke9Z"
+    },
+    {
+      "section": "technology",
+      "subsection": "",
+      "title": "Owners of BitMEX, a Leading Bitcoin Exchange, Face Criminal Charges",
+      "abstract": "BitMEX made itself a haven for hackers and illegal transactions, American prosecutors said.",
+      "url": "https://www.nytimes.com/2020/10/01/technology/bitmex-bitcoin-criminal-charges.html",
+      "uri": "nyt://article/ca68d661-e867-55de-b6b4-181dd243daf7",
+      "byline": "By Nathaniel Popper",
+      "item_type": "Article",
+      "updated_date": "2020-10-02T00:48:01-04:00",
+      "created_date": "2020-10-01T15:52:00-04:00",
+      "published_date": "2020-10-01T15:52:00-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Virtual Currency",
+        "Money Laundering",
+        "Computers and the Internet"
+      ],
+      "org_facet": [
+        "BitMEX (HDR Global Trading Ltd)"
+      ],
+      "per_facet": [
+        "Hayes, Arthur (1985- )"
+      ],
+      "geo_facet": [
+        "Hong Kong",
+        "Manhattan (NYC)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/business/02bitmex/merlin_177907953_66c4d09e-aec5-4f3d-a424-551aef9a9376-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 1536,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Arthur Hayes, chief executive of BitMEX, was charged on Thursday.",
+          "copyright": "Xyza Bacani/Redux"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/business/02bitmex/01bitmex-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Arthur Hayes, chief executive of BitMEX, was charged on Thursday.",
+          "copyright": "Xyza Bacani/Redux"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/business/02bitmex/01bitmex-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Arthur Hayes, chief executive of BitMEX, was charged on Thursday.",
+          "copyright": "Xyza Bacani/Redux"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/business/02bitmex/01bitmex-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Arthur Hayes, chief executive of BitMEX, was charged on Thursday.",
+          "copyright": "Xyza Bacani/Redux"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/business/02bitmex/merlin_177907953_66c4d09e-aec5-4f3d-a424-551aef9a9376-articleInline.jpg",
+          "format": "Normal",
+          "height": 253,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Arthur Hayes, chief executive of BitMEX, was charged on Thursday.",
+          "copyright": "Xyza Bacani/Redux"
+        }
+      ],
+      "short_url": "https://nyti.ms/3cZXK7f"
+    },
+    {
+      "section": "business",
+      "subsection": "economy",
+      "title": "Fraud Schemes Exploit Weak Spots in Unemployment Claims System",
+      "abstract": "Pandemic programs have lowered the barriers to collecting benefits, and the usual security methods haven\u2019t kept up.",
+      "url": "https://www.nytimes.com/2020/10/01/business/economy/unemployment-benefits-fraud.html",
+      "uri": "nyt://article/2e2195ee-9175-58c9-a18c-5176b7ecff4f",
+      "byline": "By Patricia Cohen",
+      "item_type": "Article",
+      "updated_date": "2020-10-02T00:43:22-04:00",
+      "created_date": "2020-10-01T10:48:03-04:00",
+      "published_date": "2020-10-01T10:48:03-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Unemployment Insurance",
+        "Frauds and Swindling",
+        "Unemployment",
+        "Identity Theft",
+        "States (US)",
+        "Coronavirus (2019-nCoV)",
+        "Coronavirus Aid, Relief, and Economic Security Act (2020)"
+      ],
+      "org_facet": [
+        "Labor Department (US)"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/business/01JPjobless-fraud-print/01jobless-fraud4-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1141,
+          "width": 1713,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An unemployment benefits account with a claims balance was offered for sale in an online black market.\u00a0",
+          "copyright": "Recorded Future"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/business/01JPjobless-fraud-print/01jobless-fraud4-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An unemployment benefits account with a claims balance was offered for sale in an online black market.\u00a0",
+          "copyright": "Recorded Future"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/business/01JPjobless-fraud-print/01jobless-fraud4-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An unemployment benefits account with a claims balance was offered for sale in an online black market.\u00a0",
+          "copyright": "Recorded Future"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/business/01JPjobless-fraud-print/01jobless-fraud4-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An unemployment benefits account with a claims balance was offered for sale in an online black market.\u00a0",
+          "copyright": "Recorded Future"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/business/01JPjobless-fraud-print/01jobless-fraud4-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An unemployment benefits account with a claims balance was offered for sale in an online black market.\u00a0",
+          "copyright": "Recorded Future"
+        }
+      ],
+      "short_url": "https://nyti.ms/30lbUdF"
+    },
+    {
+      "section": "technology",
+      "subsection": "",
+      "title": "In U.S.-China Tech Feud, Taiwan Feels Heat From Both Sides",
+      "abstract": "The island\u2019s biggest chip maker has been a coveted partner to both battling giants. But rising nationalism is making it harder to keep the middle ground.",
+      "url": "https://www.nytimes.com/2020/10/01/technology/taiwan-china-tsmc-huawei.html",
+      "uri": "nyt://article/9b15aa80-ee3b-5f5a-9055-a94d36196d85",
+      "byline": "By Raymond Zhong",
+      "item_type": "Article",
+      "updated_date": "2020-10-02T00:44:33-04:00",
+      "created_date": "2020-10-01T05:00:26-04:00",
+      "published_date": "2020-10-01T05:00:26-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "5G (Wireless Communications)",
+        "United States International Relations",
+        "Computers and the Internet",
+        "Computer Chips",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Taiwan Semiconductor Manufacturing Company Ltd",
+        "Semiconductor Manufacturing International Corporation",
+        "Huawei Technologies Co Ltd",
+        "Qualcomm Inc"
+      ],
+      "per_facet": [
+        "Tsai Ing-wen"
+      ],
+      "geo_facet": [
+        "Taiwan",
+        "China"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/business/00taiwan-chips-1/00taiwan-chips-1-superJumbo-v2.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "People in Taiwan have a rhyme about TSMC\u2019s workers: Shift by shift, they are saving Taiwan.",
+          "copyright": "An Rong Xu for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/business/00taiwan-chips-1/00taiwan-chips-1-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "People in Taiwan have a rhyme about TSMC\u2019s workers: Shift by shift, they are saving Taiwan.",
+          "copyright": "An Rong Xu for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/business/00taiwan-chips-1/00taiwan-chips-1-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "People in Taiwan have a rhyme about TSMC\u2019s workers: Shift by shift, they are saving Taiwan.",
+          "copyright": "An Rong Xu for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/business/00taiwan-chips-1/00taiwan-chips-1-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "People in Taiwan have a rhyme about TSMC\u2019s workers: Shift by shift, they are saving Taiwan.",
+          "copyright": "An Rong Xu for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/business/00taiwan-chips-1/00taiwan-chips-1-articleInline-v2.jpg",
+          "format": "Normal",
+          "height": 128,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "People in Taiwan have a rhyme about TSMC\u2019s workers: Shift by shift, they are saving Taiwan.",
+          "copyright": "An Rong Xu for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3l0JdL8"
+    },
+    {
+      "section": "business",
+      "subsection": "media",
+      "title": "Chris Wallace Calls Debate \u2018a Terrible Missed Opportunity\u2019",
+      "abstract": "The veteran anchor conceded he was initially \u201creluctant\u201d to step in during the Trump-Biden matchup. \u201cI\u2019ve never been through anything like this,\u201d he said.",
+      "url": "https://www.nytimes.com/2020/09/30/business/media/chris-wallace-debate-moderator.html",
+      "uri": "nyt://article/f698777b-ff5c-5231-b5a3-707d550fa45a",
+      "byline": "By Michael M. Grynbaum",
+      "item_type": "Article",
+      "updated_date": "2020-10-01T14:40:06-04:00",
+      "created_date": "2020-09-30T16:11:08-04:00",
+      "published_date": "2020-09-30T16:11:08-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "News and News Media",
+        "Debates (Political)",
+        "Presidential Election of 2020",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Fox News Channel"
+      ],
+      "per_facet": [
+        "Wallace, Chris (1947- )",
+        "Trump, Donald J",
+        "Biden, Joseph R Jr"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/business/01WALLACE/merlin_177819006_41f4d60b-4aee-4d30-b287-70ef41611675-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1301,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "&ldquo;I never dreamt that it would go off the tracks the way it did,&rdquo; Chris Wallace, the moderator of the first presidential debate, said on Wednesday.",
+          "copyright": "Ruth Fremson/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/business/01WALLACE/merlin_177819006_41f4d60b-4aee-4d30-b287-70ef41611675-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "&ldquo;I never dreamt that it would go off the tracks the way it did,&rdquo; Chris Wallace, the moderator of the first presidential debate, said on Wednesday.",
+          "copyright": "Ruth Fremson/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/business/01WALLACE/merlin_177819006_41f4d60b-4aee-4d30-b287-70ef41611675-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "&ldquo;I never dreamt that it would go off the tracks the way it did,&rdquo; Chris Wallace, the moderator of the first presidential debate, said on Wednesday.",
+          "copyright": "Ruth Fremson/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/business/01WALLACE/merlin_177819006_41f4d60b-4aee-4d30-b287-70ef41611675-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "&ldquo;I never dreamt that it would go off the tracks the way it did,&rdquo; Chris Wallace, the moderator of the first presidential debate, said on Wednesday.",
+          "copyright": "Ruth Fremson/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/business/01WALLACE/merlin_177819006_41f4d60b-4aee-4d30-b287-70ef41611675-articleInline.jpg",
+          "format": "Normal",
+          "height": 121,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "&ldquo;I never dreamt that it would go off the tracks the way it did,&rdquo; Chris Wallace, the moderator of the first presidential debate, said on Wednesday.",
+          "copyright": "Ruth Fremson/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/33hsQE4"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "A YouTuber Hangs His Own Shingle With an Auction Website",
+      "abstract": "Doug DeMuro has a strong following for his giddy videos about exotic and quirky cars. Cars & Bids, his new site, got off to a roaring start.",
+      "url": "https://www.nytimes.com/2020/10/01/business/doug-demuro-youtube.html",
+      "uri": "nyt://article/ab6a07ae-ca36-5cfd-82dd-0d2c09786ef5",
+      "byline": "By Imad Khan",
+      "item_type": "Article",
+      "updated_date": "2020-10-02T00:48:52-04:00",
+      "created_date": "2020-10-01T06:00:07-04:00",
+      "published_date": "2020-10-01T06:00:07-04:00",
+      "material_type_facet": "",
+      "kicker": "Wheels",
+      "des_facet": [
+        "Automobiles",
+        "Auctions",
+        "Computers and the Internet",
+        "Video Recordings, Downloads and Streaming",
+        "Entrepreneurship"
+      ],
+      "org_facet": [
+        "Cars and Bids LLC"
+      ],
+      "per_facet": [
+        "DeMuro, Doug"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/business/01wheels/01wheels-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1536,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Doug DeMuro has 3.7 million YouTube subscribers for his videos about cars. He recently branched out into an auction website.",
+          "copyright": "Doug DeMuro"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/business/01wheels/01wheels-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Doug DeMuro has 3.7 million YouTube subscribers for his videos about cars. He recently branched out into an auction website.",
+          "copyright": "Doug DeMuro"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/business/01wheels/01wheels-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Doug DeMuro has 3.7 million YouTube subscribers for his videos about cars. He recently branched out into an auction website.",
+          "copyright": "Doug DeMuro"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/business/01wheels/01wheels-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Doug DeMuro has 3.7 million YouTube subscribers for his videos about cars. He recently branched out into an auction website.",
+          "copyright": "Doug DeMuro"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/business/01wheels/01wheels-articleInline.jpg",
+          "format": "Normal",
+          "height": 143,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Doug DeMuro has 3.7 million YouTube subscribers for his videos about cars. He recently branched out into an auction website.",
+          "copyright": "Doug DeMuro"
+        }
+      ],
+      "short_url": "https://nyti.ms/36mmqFn"
+    },
+    {
+      "section": "theater",
+      "subsection": "",
+      "title": "Unemployed Stage Actors to Face New Health Insurance Hurdle",
+      "abstract": "The fund that covers thousands of performers will require that they work more weeks per year to qualify.",
+      "url": "https://www.nytimes.com/2020/10/01/theater/stage-actors-health-insurance.html",
+      "uri": "nyt://article/ed4dd5fe-586b-5497-938d-96b7b1a387c1",
+      "byline": "By Michael Paulson",
+      "item_type": "Article",
+      "updated_date": "2020-10-01T18:17:12-04:00",
+      "created_date": "2020-10-01T18:11:36-04:00",
+      "published_date": "2020-10-01T18:11:36-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Theater",
+        "Health Insurance and Managed Care"
+      ],
+      "org_facet": [
+        "Actors Equity Assn",
+        "Broadway League"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2019/07/26/arts/25moulinrouge-print1/25moulinrouge-print1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1476,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Karen Olivo and Aaron Tveit in \u201cMoulin Rouge: The Musical,\u201d one of 31 Broadway shows that were running before the shutdown.",
+          "copyright": "Sara Krulwich/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/07/26/arts/25moulinrouge-print1/25moulinrouge-print1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Karen Olivo and Aaron Tveit in \u201cMoulin Rouge: The Musical,\u201d one of 31 Broadway shows that were running before the shutdown.",
+          "copyright": "Sara Krulwich/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/07/26/arts/25moulinrouge-print1/25moulinrouge-print1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Karen Olivo and Aaron Tveit in \u201cMoulin Rouge: The Musical,\u201d one of 31 Broadway shows that were running before the shutdown.",
+          "copyright": "Sara Krulwich/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/07/26/arts/25moulinrouge-print1/25moulinrouge-print1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Karen Olivo and Aaron Tveit in \u201cMoulin Rouge: The Musical,\u201d one of 31 Broadway shows that were running before the shutdown.",
+          "copyright": "Sara Krulwich/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2019/07/26/arts/25moulinrouge-print1/25moulinrouge-print1-articleInline.jpg",
+          "format": "Normal",
+          "height": 137,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Karen Olivo and Aaron Tveit in \u201cMoulin Rouge: The Musical,\u201d one of 31 Broadway shows that were running before the shutdown.",
+          "copyright": "Sara Krulwich/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3cQsIi4"
+    },
+    {
+      "section": "arts",
+      "subsection": "design",
+      "title": "Whitney Biennial Postponed Until 2022",
+      "abstract": "The museum says that it is prioritizing exhibitions that have been delayed because of the pandemic, including Jasper Johns and Julie Mehretu shows.",
+      "url": "https://www.nytimes.com/2020/10/01/arts/design/whitney-biennial-postponed-coronavirus.html",
+      "uri": "nyt://article/c1210755-eef3-5d1c-be2e-19fd3f715e9f",
+      "byline": "By Julia Jacobs",
+      "item_type": "Article",
+      "updated_date": "2020-10-02T01:53:46-04:00",
+      "created_date": "2020-10-01T16:00:07-04:00",
+      "published_date": "2020-10-01T16:00:07-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Art",
+        "Whitney Biennial",
+        "Quarantine (Life and Culture)",
+        "Coronavirus (2019-nCoV)"
+      ],
+      "org_facet": [
+        "Whitney Museum of American Art",
+        "Kamoinge Workshop (Photography Collective)"
+      ],
+      "per_facet": [
+        "Rothkopf, Scott",
+        "Johns, Jasper",
+        "Mehretu, Julie",
+        "Hammons, David"
+      ],
+      "geo_facet": [
+        "New York City"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/arts/01whitney/merlin_170076321_4219d466-a295-40f8-b867-3f49a4c9f0e3-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cWe wanted to make sure artists had the space and time they needed to do their best work,\u201d said Scott Rothkopf, the Whitney\u2019s senior deputy director and chief curator.",
+          "copyright": "Jeenah Moon for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/arts/01whitney/merlin_170076321_4219d466-a295-40f8-b867-3f49a4c9f0e3-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cWe wanted to make sure artists had the space and time they needed to do their best work,\u201d said Scott Rothkopf, the Whitney\u2019s senior deputy director and chief curator.",
+          "copyright": "Jeenah Moon for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/arts/01whitney/merlin_170076321_4219d466-a295-40f8-b867-3f49a4c9f0e3-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cWe wanted to make sure artists had the space and time they needed to do their best work,\u201d said Scott Rothkopf, the Whitney\u2019s senior deputy director and chief curator.",
+          "copyright": "Jeenah Moon for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/arts/01whitney/merlin_170076321_4219d466-a295-40f8-b867-3f49a4c9f0e3-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cWe wanted to make sure artists had the space and time they needed to do their best work,\u201d said Scott Rothkopf, the Whitney\u2019s senior deputy director and chief curator.",
+          "copyright": "Jeenah Moon for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/arts/01whitney/merlin_170076321_4219d466-a295-40f8-b867-3f49a4c9f0e3-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\u201cWe wanted to make sure artists had the space and time they needed to do their best work,\u201d said Scott Rothkopf, the Whitney\u2019s senior deputy director and chief curator.",
+          "copyright": "Jeenah Moon for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2SjrYZf"
+    },
+    {
+      "section": "arts",
+      "subsection": "",
+      "title": "35 Thoughts About Mario on Super Mario\u2019s 35th Anniversary",
+      "abstract": "Insights and observations about Super Mario, what he means to video game culture and why he remains popular today.",
+      "url": "https://www.nytimes.com/2020/10/01/arts/super-mario-35th-anniversary.html",
+      "uri": "nyt://article/38aab5a0-666e-5ecc-8524-0ec265d0699a",
+      "byline": "By Stephen Totilo",
+      "item_type": "Article",
+      "updated_date": "2020-10-01T19:02:40-04:00",
+      "created_date": "2020-10-01T14:36:02-04:00",
+      "published_date": "2020-10-01T14:36:02-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Computer and Video Games",
+        "Super Mario Bros (Video Game)"
+      ],
+      "org_facet": [
+        "Nintendo Co Ltd"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/arts/01mario35-1/01mario35-1-superJumbo.png",
+          "format": "superJumbo",
+          "height": 972,
+          "width": 1732,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A still from Nintendo\u2019s big September release, Super Mario 3D All-Stars, for Switch.<br /><a></a>",
+          "copyright": "Nintendo"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/arts/01mario35-1/01mario35-1-thumbStandard.png",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A still from Nintendo\u2019s big September release, Super Mario 3D All-Stars, for Switch.<br /><a></a>",
+          "copyright": "Nintendo"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/arts/01mario35-1/01mario35-1-thumbLarge.png",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A still from Nintendo\u2019s big September release, Super Mario 3D All-Stars, for Switch.<br /><a></a>",
+          "copyright": "Nintendo"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/arts/01mario35-1/01mario35-1-mediumThreeByTwo210.png",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A still from Nintendo\u2019s big September release, Super Mario 3D All-Stars, for Switch.<br /><a></a>",
+          "copyright": "Nintendo"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/arts/01mario35-1/01mario35-1-articleInline.png",
+          "format": "Normal",
+          "height": 107,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A still from Nintendo\u2019s big September release, Super Mario 3D All-Stars, for Switch.<br /><a></a>",
+          "copyright": "Nintendo"
+        }
+      ],
+      "short_url": "https://nyti.ms/34dEyi8"
+    },
+    {
+      "section": "health",
+      "subsection": "",
+      "title": "Companies Ditch Plans for Rapid Coronavirus Spit Tests at Home",
+      "abstract": "You won\u2019t be buying a rapid spit test anytime soon. But nose-swab versions might be on the way.",
+      "url": "https://www.nytimes.com/2020/10/01/health/coronavirus-saliva-tests.html",
+      "uri": "nyt://article/dda93569-b116-5405-8932-b0effdd4385e",
+      "byline": "By Katherine J. Wu",
+      "item_type": "Article",
+      "updated_date": "2020-10-02T02:33:19-04:00",
+      "created_date": "2020-10-01T13:20:49-04:00",
+      "published_date": "2020-10-01T13:20:49-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Tests (Medical)",
+        "Coronavirus (2019-nCoV)",
+        "your-feed-healthcare",
+        "Research"
+      ],
+      "org_facet": [
+        "E25Bio Inc",
+        "OraSure Technologies Inc"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/science/01SCI-VIRUS-SALIVA04/01SCI-VIRUS-SALIVA04-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A woman provided a saliva sample for an experimental coronavirus test at U.C. Berkeley in June.",
+          "copyright": "Irene Yi/UC Berkeley, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/science/01SCI-VIRUS-SALIVA04/01SCI-VIRUS-SALIVA04-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A woman provided a saliva sample for an experimental coronavirus test at U.C. Berkeley in June.",
+          "copyright": "Irene Yi/UC Berkeley, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/science/01SCI-VIRUS-SALIVA04/01SCI-VIRUS-SALIVA04-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A woman provided a saliva sample for an experimental coronavirus test at U.C. Berkeley in June.",
+          "copyright": "Irene Yi/UC Berkeley, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/science/01SCI-VIRUS-SALIVA04/01SCI-VIRUS-SALIVA04-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A woman provided a saliva sample for an experimental coronavirus test at U.C. Berkeley in June.",
+          "copyright": "Irene Yi/UC Berkeley, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/science/01SCI-VIRUS-SALIVA04/01SCI-VIRUS-SALIVA04-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A woman provided a saliva sample for an experimental coronavirus test at U.C. Berkeley in June.",
+          "copyright": "Irene Yi/UC Berkeley, via Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/3jlnw7X"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "House Democrats pushed through an aid package with little chance of becoming law.",
+      "abstract": "",
+      "url": "https://www.nytimes.com/2020/10/01/business/house-democrats-pushed-through-an-aid-package-with-little-chance-of-becoming-law.html",
+      "uri": "nyt://article/5b175e9b-7c0c-5d8b-a335-79eb51dbeb57",
+      "byline": "By Emily Cochrane and Alan Rappeport",
+      "item_type": "Article",
+      "updated_date": "2020-10-01T21:17:02-04:00",
+      "created_date": "2020-10-01T12:56:14-04:00",
+      "published_date": "2020-10-01T12:56:14-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/us/politics/01dc-pelosi-vid-promo/merlin_177925218_8bc316f9-9106-4356-b137-a74dd45f508a-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Speaker Nancy Pelosi speaking with reporters after leaving the House floor on Thursday.",
+          "copyright": "Anna Moneymaker for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/us/politics/01dc-pelosi-vid-promo/01dc-pelosi-vid-promo-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Speaker Nancy Pelosi speaking with reporters after leaving the House floor on Thursday.",
+          "copyright": "Anna Moneymaker for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/us/politics/01dc-pelosi-vid-promo/01dc-pelosi-vid-promo-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Speaker Nancy Pelosi speaking with reporters after leaving the House floor on Thursday.",
+          "copyright": "Anna Moneymaker for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/us/politics/01dc-pelosi-vid-promo/merlin_177925218_8bc316f9-9106-4356-b137-a74dd45f508a-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Speaker Nancy Pelosi speaking with reporters after leaving the House floor on Thursday.",
+          "copyright": "Anna Moneymaker for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/us/politics/01dc-pelosi-vid-promo/merlin_177925218_8bc316f9-9106-4356-b137-a74dd45f508a-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Speaker Nancy Pelosi speaking with reporters after leaving the House floor on Thursday.",
+          "copyright": "Anna Moneymaker for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3l64DGN"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "H&M will close stores and ramp up digital efforts as online sales rise 7 percent.",
+      "abstract": "",
+      "url": "https://www.nytimes.com/2020/10/01/business/hm-will-close-stores-and-ramp-up-digital-efforts-as-online-sales-rise-7-percent.html",
+      "uri": "nyt://article/d6b02d67-1976-5800-a275-81cc581bd10f",
+      "byline": "By Gillian Friedman",
+      "item_type": "Article",
+      "updated_date": "2020-10-01T15:02:40-04:00",
+      "created_date": "2020-10-01T11:10:04-04:00",
+      "published_date": "2020-10-01T11:10:04-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/business/01markets-brf-hm/merlin_176377365_b8e89dce-b847-430e-80b2-212afa2e5667-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Swedish retailer H&amp;M said it would close 250 stores globally next year.",
+          "copyright": "George Etheredge for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/business/01markets-brf-hm/01markets-brf-hm-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Swedish retailer H&amp;M said it would close 250 stores globally next year.",
+          "copyright": "George Etheredge for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/business/01markets-brf-hm/01markets-brf-hm-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Swedish retailer H&amp;M said it would close 250 stores globally next year.",
+          "copyright": "George Etheredge for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/business/01markets-brf-hm/merlin_176377365_b8e89dce-b847-430e-80b2-212afa2e5667-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Swedish retailer H&amp;M said it would close 250 stores globally next year.",
+          "copyright": "George Etheredge for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/business/01markets-brf-hm/merlin_176377365_b8e89dce-b847-430e-80b2-212afa2e5667-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Swedish retailer H&amp;M said it would close 250 stores globally next year.",
+          "copyright": "George Etheredge for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2G8scjz"
+    },
+    {
+      "section": "arts",
+      "subsection": "design",
+      "title": "Galleries and an Auction House Follow Collectors to Florida",
+      "abstract": "Pace, Acquavella and Sotheby\u2019s are opening seasonal spaces in Palm Beach.",
+      "url": "https://www.nytimes.com/2020/10/01/arts/design/pace-acquavella-sothebys-palm-beach.html",
+      "uri": "nyt://article/f3c3a467-442e-5dfc-bb10-557ed21e61a5",
+      "byline": "By Sophie Haigney",
+      "item_type": "Article",
+      "updated_date": "2020-10-02T00:59:42-04:00",
+      "created_date": "2020-10-01T10:00:08-04:00",
+      "published_date": "2020-10-01T10:00:08-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Art",
+        "Travel and Vacations",
+        "Collectors and Collections",
+        "Coronavirus (2019-nCoV)"
+      ],
+      "org_facet": [
+        "Acquavella Galleries",
+        "Pace Gallery",
+        "Sotheby's"
+      ],
+      "per_facet": [
+        "Basquiat, Jean-Michel",
+        "Turrell, James",
+        "Warhol, Andy"
+      ],
+      "geo_facet": [
+        "Palm Beach (Fla)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/arts/01palm-beach-galleries/01palm-beach-galleries-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1536,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Pace\u2019s new seasonal gallery at the Royal Poinciana Plaza, which will be open from early November until the spring. Its first exhibition will be of James Turrell\u2019s work.",
+          "copyright": "Pace Gallery, courtesy of the Royal Poinciana Plaza"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/arts/01palm-beach-galleries/01palm-beach-galleries-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Pace\u2019s new seasonal gallery at the Royal Poinciana Plaza, which will be open from early November until the spring. Its first exhibition will be of James Turrell\u2019s work.",
+          "copyright": "Pace Gallery, courtesy of the Royal Poinciana Plaza"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/arts/01palm-beach-galleries/01palm-beach-galleries-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Pace\u2019s new seasonal gallery at the Royal Poinciana Plaza, which will be open from early November until the spring. Its first exhibition will be of James Turrell\u2019s work.",
+          "copyright": "Pace Gallery, courtesy of the Royal Poinciana Plaza"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/arts/01palm-beach-galleries/01palm-beach-galleries-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Pace\u2019s new seasonal gallery at the Royal Poinciana Plaza, which will be open from early November until the spring. Its first exhibition will be of James Turrell\u2019s work.",
+          "copyright": "Pace Gallery, courtesy of the Royal Poinciana Plaza"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/arts/01palm-beach-galleries/01palm-beach-galleries-articleInline.jpg",
+          "format": "Normal",
+          "height": 143,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Pace\u2019s new seasonal gallery at the Royal Poinciana Plaza, which will be open from early November until the spring. Its first exhibition will be of James Turrell\u2019s work.",
+          "copyright": "Pace Gallery, courtesy of the Royal Poinciana Plaza"
+        }
+      ],
+      "short_url": "https://nyti.ms/30oatv3"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "Google commits $1 billion to license content from news publishers.",
+      "abstract": "",
+      "url": "https://www.nytimes.com/2020/10/01/business/google-commits-1-billion-to-license-content-from-news-publishers.html",
+      "uri": "nyt://article/b4be74af-e463-559e-922c-1f9cc8425f26",
+      "byline": "By Adam Satariano",
+      "item_type": "Article",
+      "updated_date": "2020-10-01T14:57:26-04:00",
+      "created_date": "2020-10-01T09:49:58-04:00",
+      "published_date": "2020-10-01T09:49:58-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/business/01markets-brf-google1/merlin_154357734_9b609e1c-a2e5-4b9c-b3c7-4ad250c0999b-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Sundar Pichai, the chief executive of Google, said the company\u2019s licensing partnership with news publishers would start in Germany and Brazil and expand to other countries later.",
+          "copyright": "Max Whittaker for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/business/01markets-brf-google1/merlin_154357734_9b609e1c-a2e5-4b9c-b3c7-4ad250c0999b-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Sundar Pichai, the chief executive of Google, said the company\u2019s licensing partnership with news publishers would start in Germany and Brazil and expand to other countries later.",
+          "copyright": "Max Whittaker for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/business/01markets-brf-google1/merlin_154357734_9b609e1c-a2e5-4b9c-b3c7-4ad250c0999b-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Sundar Pichai, the chief executive of Google, said the company\u2019s licensing partnership with news publishers would start in Germany and Brazil and expand to other countries later.",
+          "copyright": "Max Whittaker for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/business/01markets-brf-google1/merlin_154357734_9b609e1c-a2e5-4b9c-b3c7-4ad250c0999b-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Sundar Pichai, the chief executive of Google, said the company\u2019s licensing partnership with news publishers would start in Germany and Brazil and expand to other countries later.",
+          "copyright": "Max Whittaker for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/business/01markets-brf-google1/merlin_154357734_9b609e1c-a2e5-4b9c-b3c7-4ad250c0999b-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Sundar Pichai, the chief executive of Google, said the company\u2019s licensing partnership with news publishers would start in Germany and Brazil and expand to other countries later.",
+          "copyright": "Max Whittaker for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/36qdLSC"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "After a layoff, a couple struggles to get by on one salary and jobless benefits.",
+      "abstract": "",
+      "url": "https://www.nytimes.com/2020/10/01/business/after-a-layoff-a-couple-struggles-to-get-by-on-one-salary-and-jobless-benefits.html",
+      "uri": "nyt://article/d1214c47-af51-58ee-a00b-ef37ee07a65e",
+      "byline": "By Gillian Friedman",
+      "item_type": "Article",
+      "updated_date": "2020-10-01T12:36:24-04:00",
+      "created_date": "2020-10-01T09:26:06-04:00",
+      "published_date": "2020-10-01T09:26:06-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/business/01markets-brf-nicholson5/merlin_177861909_fc632167-e6be-42c4-b664-c36fb212c5a4-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "MacKenzie Nicholson helping her 7-year-old with his schoolwork. She lost her job in June, and the family is struggling to get by on her unemployment benefits and her husband's income.",
+          "copyright": "Elizabeth Frantz for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/business/01markets-brf-nicholson5/01markets-brf-nicholson5-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "MacKenzie Nicholson helping her 7-year-old with his schoolwork. She lost her job in June, and the family is struggling to get by on her unemployment benefits and her husband's income.",
+          "copyright": "Elizabeth Frantz for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/business/01markets-brf-nicholson5/01markets-brf-nicholson5-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "MacKenzie Nicholson helping her 7-year-old with his schoolwork. She lost her job in June, and the family is struggling to get by on her unemployment benefits and her husband's income.",
+          "copyright": "Elizabeth Frantz for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/business/01markets-brf-nicholson5/merlin_177861909_fc632167-e6be-42c4-b664-c36fb212c5a4-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "MacKenzie Nicholson helping her 7-year-old with his schoolwork. She lost her job in June, and the family is struggling to get by on her unemployment benefits and her husband's income.",
+          "copyright": "Elizabeth Frantz for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/business/01markets-brf-nicholson5/merlin_177861909_fc632167-e6be-42c4-b664-c36fb212c5a4-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "MacKenzie Nicholson helping her 7-year-old with his schoolwork. She lost her job in June, and the family is struggling to get by on her unemployment benefits and her husband's income.",
+          "copyright": "Elizabeth Frantz for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2SkiBZ2"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "Subsidized furlough programs keep a lid on eurozone unemployment.",
+      "abstract": "",
+      "url": "https://www.nytimes.com/2020/10/01/business/subsidized-furlough-programs-keep-a-lid-on-eurozone-unemployment.html",
+      "uri": "nyt://article/370aabe9-809c-5bf5-a42e-55e56f0d4ca1",
+      "byline": "By Jack Ewing",
+      "item_type": "Article",
+      "updated_date": "2020-10-01T14:01:10-04:00",
+      "created_date": "2020-10-01T09:21:25-04:00",
+      "published_date": "2020-10-01T09:21:25-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/business/01markets-brf-euro1/merlin_177365136_839bd617-1aca-4b13-90de-03aa95ef05fc-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A jobseeker interviewing at a job fair in Barcelona, Spain, in September. The unemployment rate in the eurozone ticked up to 8.1 percent in August, from 8 percent the month before.",
+          "copyright": "David Ramos/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/business/01markets-brf-euro1/merlin_177365136_839bd617-1aca-4b13-90de-03aa95ef05fc-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A jobseeker interviewing at a job fair in Barcelona, Spain, in September. The unemployment rate in the eurozone ticked up to 8.1 percent in August, from 8 percent the month before.",
+          "copyright": "David Ramos/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/business/01markets-brf-euro1/merlin_177365136_839bd617-1aca-4b13-90de-03aa95ef05fc-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A jobseeker interviewing at a job fair in Barcelona, Spain, in September. The unemployment rate in the eurozone ticked up to 8.1 percent in August, from 8 percent the month before.",
+          "copyright": "David Ramos/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/business/01markets-brf-euro1/merlin_177365136_839bd617-1aca-4b13-90de-03aa95ef05fc-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A jobseeker interviewing at a job fair in Barcelona, Spain, in September. The unemployment rate in the eurozone ticked up to 8.1 percent in August, from 8 percent the month before.",
+          "copyright": "David Ramos/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/business/01markets-brf-euro1/merlin_177365136_839bd617-1aca-4b13-90de-03aa95ef05fc-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A jobseeker interviewing at a job fair in Barcelona, Spain, in September. The unemployment rate in the eurozone ticked up to 8.1 percent in August, from 8 percent the month before.",
+          "copyright": "David Ramos/Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/3ilEUZ1"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "Her hours cut to almost nothing, she spent the time trying to launch a new career.",
+      "abstract": "",
+      "url": "https://www.nytimes.com/2020/10/01/business/her-hours-cut-to-almost-nothing-she-spent-the-time-trying-to-launch-a-new-career.html",
+      "uri": "nyt://article/59cbee7e-0a02-5459-a0c4-70050708b696",
+      "byline": "By Gillian Friedman",
+      "item_type": "Article",
+      "updated_date": "2020-10-01T12:36:01-04:00",
+      "created_date": "2020-10-01T09:06:40-04:00",
+      "published_date": "2020-10-01T09:06:40-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/business/01markets-brf-taylor1/merlin_177869520_0cc88b64-b24b-416a-9a37-2b68cc5a0b2d-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Joann Taylor with her daughters near their Houston apartment. After losing most or all of her weekly hours at a deli, she got an insurance license and hopes an agency will take her on.",
+          "copyright": "Todd Spoth for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/business/01markets-brf-taylor1/01markets-brf-taylor1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Joann Taylor with her daughters near their Houston apartment. After losing most or all of her weekly hours at a deli, she got an insurance license and hopes an agency will take her on.",
+          "copyright": "Todd Spoth for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/business/01markets-brf-taylor1/01markets-brf-taylor1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Joann Taylor with her daughters near their Houston apartment. After losing most or all of her weekly hours at a deli, she got an insurance license and hopes an agency will take her on.",
+          "copyright": "Todd Spoth for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/business/01markets-brf-taylor1/merlin_177869520_0cc88b64-b24b-416a-9a37-2b68cc5a0b2d-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Joann Taylor with her daughters near their Houston apartment. After losing most or all of her weekly hours at a deli, she got an insurance license and hopes an agency will take her on.",
+          "copyright": "Todd Spoth for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/business/01markets-brf-taylor1/merlin_177869520_0cc88b64-b24b-416a-9a37-2b68cc5a0b2d-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Joann Taylor with her daughters near their Houston apartment. After losing most or all of her weekly hours at a deli, she got an insurance license and hopes an agency will take her on.",
+          "copyright": "Todd Spoth for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3jmgwrJ"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "Plenty of work for homebuilders, but few commercial construction jobs.",
+      "abstract": "",
+      "url": "https://www.nytimes.com/2020/10/01/business/plenty-of-work-for-homebuilders-but-few-commercial-construction-jobs.html",
+      "uri": "nyt://article/bc0df365-379b-531d-8362-7a98e7e6c688",
+      "byline": "By Nelson D. Schwartz",
+      "item_type": "Article",
+      "updated_date": "2020-10-01T12:35:45-04:00",
+      "created_date": "2020-10-01T08:59:05-04:00",
+      "published_date": "2020-10-01T08:59:05-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/business/01markets-brf-construction1/merlin_177537117_5fc3281a-3652-46a3-9b10-e609b5500e06-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1350,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Residential construction jobs rose 2.1 percent from June to August, according to a contractors\u2019 group.",
+          "copyright": "Justin Sullivan/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/business/01markets-brf-construction1/01markets-brf-construction1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Residential construction jobs rose 2.1 percent from June to August, according to a contractors\u2019 group.",
+          "copyright": "Justin Sullivan/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/business/01markets-brf-construction1/01markets-brf-construction1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Residential construction jobs rose 2.1 percent from June to August, according to a contractors\u2019 group.",
+          "copyright": "Justin Sullivan/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/business/01markets-brf-construction1/01markets-brf-construction1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Residential construction jobs rose 2.1 percent from June to August, according to a contractors\u2019 group.",
+          "copyright": "Justin Sullivan/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/business/01markets-brf-construction1/merlin_177537117_5fc3281a-3652-46a3-9b10-e609b5500e06-articleInline.jpg",
+          "format": "Normal",
+          "height": 125,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Residential construction jobs rose 2.1 percent from June to August, according to a contractors\u2019 group.",
+          "copyright": "Justin Sullivan/Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/2GoHKiH"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "Three charts about the markets in the third quarter.",
+      "abstract": "",
+      "url": "https://www.nytimes.com/2020/10/01/business/three-charts-about-the-markets-in-the-third-quarter.html",
+      "uri": "nyt://article/13509961-2aed-5181-908b-ef3e9e50000e",
+      "byline": "By Jason Karaian",
+      "item_type": "Article",
+      "updated_date": "2020-10-01T12:27:52-04:00",
+      "created_date": "2020-10-01T08:56:30-04:00",
+      "published_date": "2020-10-01T08:56:30-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": null,
+      "short_url": "https://nyti.ms/2GqUV2M"
+    },
+    {
+      "section": "business",
+      "subsection": "dealbook",
+      "title": "Inside the New Tech Cold War",
+      "abstract": "A conversation with The Times\u2019s David Sanger on how Washington and Beijing are battling over the future of technology.",
+      "url": "https://www.nytimes.com/2020/10/01/business/dealbook/tech-cold-war-us-china.html",
+      "uri": "nyt://article/29c904aa-62cd-5900-b0f2-5d9a29742b31",
+      "byline": "By Dealbook",
+      "item_type": "Article",
+      "updated_date": "2020-10-01T08:18:18-04:00",
+      "created_date": "2020-10-01T08:17:59-04:00",
+      "published_date": "2020-10-01T08:17:59-04:00",
+      "material_type_facet": "",
+      "kicker": "dealbook debrief",
+      "des_facet": [
+        "5G (Wireless Communications)",
+        "Telephones and Telecommunications"
+      ],
+      "org_facet": [
+        "Huawei Technologies Co Ltd",
+        "TikTok (ByteDance)"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/07/23/business/23db-debrief-sanger2/merlin_177821505_c8695210-7fc5-4b76-b174-3e8f25fa1085-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1355,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Huawei has become a flashpoint in the tech cold war between the U.S. and China.",
+          "copyright": "Tingshu Wang/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/07/23/business/23db-debrief-sanger2/merlin_177821505_c8695210-7fc5-4b76-b174-3e8f25fa1085-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Huawei has become a flashpoint in the tech cold war between the U.S. and China.",
+          "copyright": "Tingshu Wang/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/07/23/business/23db-debrief-sanger2/merlin_177821505_c8695210-7fc5-4b76-b174-3e8f25fa1085-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Huawei has become a flashpoint in the tech cold war between the U.S. and China.",
+          "copyright": "Tingshu Wang/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/07/23/business/23db-debrief-sanger2/merlin_177821505_c8695210-7fc5-4b76-b174-3e8f25fa1085-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Huawei has become a flashpoint in the tech cold war between the U.S. and China.",
+          "copyright": "Tingshu Wang/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/07/23/business/23db-debrief-sanger2/merlin_177821505_c8695210-7fc5-4b76-b174-3e8f25fa1085-articleInline.jpg",
+          "format": "Normal",
+          "height": 126,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Huawei has become a flashpoint in the tech cold war between the U.S. and China.",
+          "copyright": "Tingshu Wang/Reuters"
+        }
+      ],
+      "short_url": "https://nyti.ms/2ShD2G5"
+    },
+    {
+      "section": "business",
+      "subsection": "dealbook",
+      "title": "The Calculus Behind Trump\u2019s Covid Response",
+      "abstract": "A conversation with The Times\u2019s Maggie Haberman about how President Trump has managed the federal response to the pandemic.",
+      "url": "https://www.nytimes.com/2020/07/17/business/dealbook/trump-covid-response.html",
+      "uri": "nyt://article/bc65d12d-cb6d-5d1f-adbd-7f6fdbdb0657",
+      "byline": "By Dealbook",
+      "item_type": "Article",
+      "updated_date": "2020-10-01T14:56:10-04:00",
+      "created_date": "2020-10-01T08:14:15-04:00",
+      "published_date": "2020-10-01T08:14:15-04:00",
+      "material_type_facet": "",
+      "kicker": "dealbook debrief",
+      "des_facet": [
+        "Presidential Election of 2020",
+        "Coronavirus (2019-nCoV)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/07/17/business/17db-debrief-haberman2/merlin_176824401_da22be90-0c49-4cc7-8baa-fcc044c18c46-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump\u2019s response to the pandemic has become a major factor in the election.",
+          "copyright": "Pool photo by Michael Reynolds/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/07/17/business/17db-debrief-haberman2/merlin_176824401_da22be90-0c49-4cc7-8baa-fcc044c18c46-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump\u2019s response to the pandemic has become a major factor in the election.",
+          "copyright": "Pool photo by Michael Reynolds/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/07/17/business/17db-debrief-haberman2/merlin_176824401_da22be90-0c49-4cc7-8baa-fcc044c18c46-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump\u2019s response to the pandemic has become a major factor in the election.",
+          "copyright": "Pool photo by Michael Reynolds/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/07/17/business/17db-debrief-haberman2/merlin_176824401_da22be90-0c49-4cc7-8baa-fcc044c18c46-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump\u2019s response to the pandemic has become a major factor in the election.",
+          "copyright": "Pool photo by Michael Reynolds/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/07/17/business/17db-debrief-haberman2/merlin_176824401_da22be90-0c49-4cc7-8baa-fcc044c18c46-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump\u2019s response to the pandemic has become a major factor in the election.",
+          "copyright": "Pool photo by Michael Reynolds/EPA, via Shutterstock"
+        }
+      ],
+      "short_url": "https://nyti.ms/34kx394"
+    },
+    {
+      "section": "business",
+      "subsection": "dealbook",
+      "title": "Where Does America Sit in a Pandemic World?",
+      "abstract": "A conversation with The Times\u2019s Tom Friedman about how Covid-19 has changed the United States\u2019 position in global affairs.",
+      "url": "https://www.nytimes.com/2020/10/01/business/dealbook/america-pandemic-covid.html",
+      "uri": "nyt://article/dc788ab6-2821-5547-91a6-099b092498db",
+      "byline": "By Dealbook",
+      "item_type": "Article",
+      "updated_date": "2020-10-01T08:10:13-04:00",
+      "created_date": "2020-10-01T08:10:13-04:00",
+      "published_date": "2020-10-01T08:10:13-04:00",
+      "material_type_facet": "",
+      "kicker": "DealBook Debrief",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "United States International Relations"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/07/31/business/31db-newsletter-debrief/merlin_174986475_a96e4234-23d7-4720-8ff1-e4d21ecc8783-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1414,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Trump administration appears to trying \u201cto bring down the Communist Party\u201d in China, according to The Times columnist Tom Friedman.",
+          "copyright": "Kevin Lamarque/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/07/31/business/31db-newsletter-debrief/31db-newsletter-debrief-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Trump administration appears to trying \u201cto bring down the Communist Party\u201d in China, according to The Times columnist Tom Friedman.",
+          "copyright": "Kevin Lamarque/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/07/31/business/31db-newsletter-debrief/31db-newsletter-debrief-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Trump administration appears to trying \u201cto bring down the Communist Party\u201d in China, according to The Times columnist Tom Friedman.",
+          "copyright": "Kevin Lamarque/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/07/31/business/31db-newsletter-debrief/merlin_174986475_a96e4234-23d7-4720-8ff1-e4d21ecc8783-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Trump administration appears to trying \u201cto bring down the Communist Party\u201d in China, according to The Times columnist Tom Friedman.",
+          "copyright": "Kevin Lamarque/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/07/31/business/31db-newsletter-debrief/merlin_174986475_a96e4234-23d7-4720-8ff1-e4d21ecc8783-articleInline.jpg",
+          "format": "Normal",
+          "height": 131,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Trump administration appears to trying \u201cto bring down the Communist Party\u201d in China, according to The Times columnist Tom Friedman.",
+          "copyright": "Kevin Lamarque/Reuters"
+        }
+      ],
+      "short_url": "https://nyti.ms/2GtltA9"
+    },
+    {
+      "section": "business",
+      "subsection": "dealbook",
+      "title": "Corporate America\u2019s Role in the Fight for Racial Justice",
+      "abstract": "A conversation with The Times\u2019s Nikole Hannah-Jones on how businesses can help whittle away social inequities \u2014 and why they should.",
+      "url": "https://www.nytimes.com/2020/08/07/business/dealbook/corporate-america-racial-justice.html",
+      "uri": "nyt://article/e5a34644-2b49-5f6d-820a-3d4a0deb21a6",
+      "byline": "By Dealbook",
+      "item_type": "Article",
+      "updated_date": "2020-10-01T08:09:48-04:00",
+      "created_date": "2020-10-01T07:53:21-04:00",
+      "published_date": "2020-10-01T07:53:21-04:00",
+      "material_type_facet": "",
+      "kicker": "dealbook debrief",
+      "des_facet": [
+        "Race and Ethnicity",
+        "Discrimination",
+        "Civil Rights and Liberties"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/07/business/07db-debrief-hannahjones/merlin_176948364_f9e5abad-ef9c-4af3-b3f0-cd7bc2b63056-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Protests over the killing of George Floyd and others have prompted corporate America to pledge support for social justice causes.",
+          "copyright": "Andrew Harnik/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/07/business/07db-debrief-hannahjones/merlin_176948364_f9e5abad-ef9c-4af3-b3f0-cd7bc2b63056-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Protests over the killing of George Floyd and others have prompted corporate America to pledge support for social justice causes.",
+          "copyright": "Andrew Harnik/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/07/business/07db-debrief-hannahjones/merlin_176948364_f9e5abad-ef9c-4af3-b3f0-cd7bc2b63056-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Protests over the killing of George Floyd and others have prompted corporate America to pledge support for social justice causes.",
+          "copyright": "Andrew Harnik/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/07/business/07db-debrief-hannahjones/merlin_176948364_f9e5abad-ef9c-4af3-b3f0-cd7bc2b63056-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Protests over the killing of George Floyd and others have prompted corporate America to pledge support for social justice causes.",
+          "copyright": "Andrew Harnik/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/07/business/07db-debrief-hannahjones/merlin_176948364_f9e5abad-ef9c-4af3-b3f0-cd7bc2b63056-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Protests over the killing of George Floyd and others have prompted corporate America to pledge support for social justice causes.",
+          "copyright": "Andrew Harnik/Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/3ihSUDi"
+    },
+    {
+      "section": "business",
+      "subsection": "dealbook",
+      "title": "Is It Time to Rethink Milton Friedman?",
+      "abstract": "Leo Strine, the former Delaware chief justice, and Joey Zwillinger of the shoe brand Allbirds discuss whether the economist\u2019s influential essay ignored social inequality.",
+      "url": "https://www.nytimes.com/2020/09/11/business/dealbook/milton-friedman-essay-strine.html",
+      "uri": "nyt://article/db53fad8-dd01-58b6-82c7-8de42d4f3098",
+      "byline": "By Dealbook",
+      "item_type": "Article",
+      "updated_date": "2020-10-01T08:03:36-04:00",
+      "created_date": "2020-10-01T07:50:24-04:00",
+      "published_date": "2020-10-01T07:50:24-04:00",
+      "material_type_facet": "",
+      "kicker": "Dealbook debrief",
+      "des_facet": [
+        "Corporate Social Responsibility"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Friedman, Milton",
+        "Strine Jr., Leo E."
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/11/business/11db-debrief-strine/merlin_22792211_af8727ed-b85f-44b9-8c94-bbeeb2cf26d2-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1313,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An influential essay on free-market capitalism was the subject of a DealBook Debrief call with Leo Strine, the former Delaware chief justice, and Joey Zwillinger, a founder of Allbirds.",
+          "copyright": "PBS"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/11/business/11db-debrief-strine/merlin_22792211_af8727ed-b85f-44b9-8c94-bbeeb2cf26d2-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An influential essay on free-market capitalism was the subject of a DealBook Debrief call with Leo Strine, the former Delaware chief justice, and Joey Zwillinger, a founder of Allbirds.",
+          "copyright": "PBS"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/11/business/11db-debrief-strine/merlin_22792211_af8727ed-b85f-44b9-8c94-bbeeb2cf26d2-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An influential essay on free-market capitalism was the subject of a DealBook Debrief call with Leo Strine, the former Delaware chief justice, and Joey Zwillinger, a founder of Allbirds.",
+          "copyright": "PBS"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/11/business/11db-debrief-strine/merlin_22792211_af8727ed-b85f-44b9-8c94-bbeeb2cf26d2-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An influential essay on free-market capitalism was the subject of a DealBook Debrief call with Leo Strine, the former Delaware chief justice, and Joey Zwillinger, a founder of Allbirds.",
+          "copyright": "PBS"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/11/business/11db-debrief-strine/merlin_22792211_af8727ed-b85f-44b9-8c94-bbeeb2cf26d2-articleInline.jpg",
+          "format": "Normal",
+          "height": 122,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An influential essay on free-market capitalism was the subject of a DealBook Debrief call with Leo Strine, the former Delaware chief justice, and Joey Zwillinger, a founder of Allbirds.",
+          "copyright": "PBS"
+        }
+      ],
+      "short_url": "https://nyti.ms/3ilr9cM"
+    },
+    {
+      "section": "world",
+      "subsection": "asia",
+      "title": "China\u2019s \u2018Golden Week\u2019 Kicks Off in Boost to Battered Tourism Industry",
+      "abstract": "Chinese travelers are expected to fan out across the country in droves, even as anxiety about the virus and the economy lingers.",
+      "url": "https://www.nytimes.com/2020/10/01/world/asia/china-tourism-covid.html",
+      "uri": "nyt://article/a886e2b4-ab8c-583b-b40b-e993adbe00ae",
+      "byline": "By Vivian Wang",
+      "item_type": "Article",
+      "updated_date": "2020-10-02T01:28:11-04:00",
+      "created_date": "2020-10-01T07:38:07-04:00",
+      "published_date": "2020-10-01T07:38:07-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Travel and Vacations",
+        "Coronavirus (2019-nCoV)",
+        "Shopping and Retail"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "China"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/world/01china-travel01/01china-travel01-superJumbo-v2.jpg",
+          "format": "superJumbo",
+          "height": 1364,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tourists waiting to enter the Forbidden City in Beijing on Thursday. It was the first day of a weeklong holiday that may offer the clearest measure yet of China\u2019s recovery from the pandemic.",
+          "copyright": "Kevin Frayer/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/world/01china-travel01/01china-travel01-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tourists waiting to enter the Forbidden City in Beijing on Thursday. It was the first day of a weeklong holiday that may offer the clearest measure yet of China\u2019s recovery from the pandemic.",
+          "copyright": "Kevin Frayer/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/world/01china-travel01/01china-travel01-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tourists waiting to enter the Forbidden City in Beijing on Thursday. It was the first day of a weeklong holiday that may offer the clearest measure yet of China\u2019s recovery from the pandemic.",
+          "copyright": "Kevin Frayer/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/world/01china-travel01/01china-travel01-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tourists waiting to enter the Forbidden City in Beijing on Thursday. It was the first day of a weeklong holiday that may offer the clearest measure yet of China\u2019s recovery from the pandemic.",
+          "copyright": "Kevin Frayer/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/world/01china-travel01/01china-travel01-articleInline-v2.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tourists waiting to enter the Forbidden City in Beijing on Thursday. It was the first day of a weeklong holiday that may offer the clearest measure yet of China\u2019s recovery from the pandemic.",
+          "copyright": "Kevin Frayer/Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/3cNHaHm"
+    },
+    {
+      "section": "business",
+      "subsection": "dealbook",
+      "title": "Take It or Leave It",
+      "abstract": "Palantir\u2019s C.E.O. defended the founders\u2019 tight control over the company, citing defense of its corporate mission.",
+      "url": "https://www.nytimes.com/2020/10/01/business/dealbook/palantir-direct-listing.html",
+      "uri": "nyt://article/709ed81f-715f-52a1-b002-15901120de43",
+      "byline": "",
+      "item_type": "Article",
+      "updated_date": "2020-10-01T11:45:17-04:00",
+      "created_date": "2020-10-01T07:00:08-04:00",
+      "published_date": "2020-10-01T07:00:08-04:00",
+      "material_type_facet": "",
+      "kicker": "DealBook Newsletter",
+      "des_facet": [
+        "Customer Loyalty Programs",
+        "Initial Public Offerings"
+      ],
+      "org_facet": [
+        "Palantir Technologies"
+      ],
+      "per_facet": [
+        "Karp, Alex"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/business/01db-newsletter-karp/merlin_154890828_a57696d9-e7d2-4355-b442-50c69b96a296-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1372,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Alex Karp, Palantir\u2019s C.E.O.",
+          "copyright": "Charles Platiau/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/business/01db-newsletter-karp/merlin_154890828_a57696d9-e7d2-4355-b442-50c69b96a296-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Alex Karp, Palantir\u2019s C.E.O.",
+          "copyright": "Charles Platiau/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/business/01db-newsletter-karp/merlin_154890828_a57696d9-e7d2-4355-b442-50c69b96a296-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Alex Karp, Palantir\u2019s C.E.O.",
+          "copyright": "Charles Platiau/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/business/01db-newsletter-karp/merlin_154890828_a57696d9-e7d2-4355-b442-50c69b96a296-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Alex Karp, Palantir\u2019s C.E.O.",
+          "copyright": "Charles Platiau/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/business/01db-newsletter-karp/merlin_154890828_a57696d9-e7d2-4355-b442-50c69b96a296-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Alex Karp, Palantir\u2019s C.E.O.",
+          "copyright": "Charles Platiau/Reuters"
+        }
+      ],
+      "short_url": "https://nyti.ms/36n0A4T"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "Tokyo Stock Market Halts Trading for a Day, Citing Glitch",
+      "abstract": "The exchange resumed trading on Friday after a technical problem left investors unable to place orders on Thursday.",
+      "url": "https://www.nytimes.com/2020/09/30/business/tokyo-stock-market-glitch.html",
+      "uri": "nyt://article/d2d0b795-c83a-5939-b164-aaf05ced1a18",
+      "byline": "By Ben Dooley",
+      "item_type": "Article",
+      "updated_date": "2020-10-02T00:47:44-04:00",
+      "created_date": "2020-09-30T21:32:53-04:00",
+      "published_date": "2020-09-30T21:32:53-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Stocks and Bonds"
+      ],
+      "org_facet": [
+        "Tokyo Stock Exchange"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Japan"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/business/01Japan-stocks-print/merlin_177873726_70e9962f-a7d4-45c3-b1bc-2e80a7fa3eb4-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Trading was halted Thursday at Japanese exchanges in Nagoya, Sapporo and Fukuoka as well as Tokyo, but trading in Osaka appeared to be unaffected.",
+          "copyright": "Eugene Hoshiko/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/business/01Japan-stocks-print/merlin_177873726_70e9962f-a7d4-45c3-b1bc-2e80a7fa3eb4-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Trading was halted Thursday at Japanese exchanges in Nagoya, Sapporo and Fukuoka as well as Tokyo, but trading in Osaka appeared to be unaffected.",
+          "copyright": "Eugene Hoshiko/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/business/01Japan-stocks-print/merlin_177873726_70e9962f-a7d4-45c3-b1bc-2e80a7fa3eb4-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Trading was halted Thursday at Japanese exchanges in Nagoya, Sapporo and Fukuoka as well as Tokyo, but trading in Osaka appeared to be unaffected.",
+          "copyright": "Eugene Hoshiko/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/business/01Japan-stocks-print/merlin_177873726_70e9962f-a7d4-45c3-b1bc-2e80a7fa3eb4-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Trading was halted Thursday at Japanese exchanges in Nagoya, Sapporo and Fukuoka as well as Tokyo, but trading in Osaka appeared to be unaffected.",
+          "copyright": "Eugene Hoshiko/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/business/01Japan-stocks-print/merlin_177873726_70e9962f-a7d4-45c3-b1bc-2e80a7fa3eb4-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Trading was halted Thursday at Japanese exchanges in Nagoya, Sapporo and Fukuoka as well as Tokyo, but trading in Osaka appeared to be unaffected.",
+          "copyright": "Eugene Hoshiko/Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/36l9b7T"
+    },
+    {
+      "section": "travel",
+      "subsection": "",
+      "title": "Now at the Boarding Gate: Coronavirus Tests",
+      "abstract": "Airlines and airports are offering the tests as a way for travelers whose results are negative to avoid quarantines at their destinations, and to revive travelers\u2019 faith in flying.",
+      "url": "https://www.nytimes.com/2020/09/30/travel/coronavirus-airlines-test.html",
+      "uri": "nyt://article/3040392c-eb5c-582a-bc04-1d6c223225e6",
+      "byline": "By Tariro Mzezewa",
+      "item_type": "Article",
+      "updated_date": "2020-10-02T00:49:11-04:00",
+      "created_date": "2020-09-30T19:10:35-04:00",
+      "published_date": "2020-09-30T19:10:35-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Travel and Vacations",
+        "Quarantine (Life and Culture)",
+        "Airlines and Airplanes"
+      ],
+      "org_facet": [
+        "United Airlines",
+        "Hawaiian Airlines Incorporated"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Hawaii"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/travel/30airlinetests/merlin_172036566_077fcc19-47b8-4caf-b13f-bf37f34208e7-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Hawaiian Airlines planes at the Daniel K. Inouye International Airport in Honolulu. The airline will soon have drive-through testing sites in San Francisco and Los Angeles so Hawaii-bound passengers who test negative can avoid long quarantines.",
+          "copyright": "Marco Garcia/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/travel/30airlinetests/merlin_172036566_077fcc19-47b8-4caf-b13f-bf37f34208e7-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Hawaiian Airlines planes at the Daniel K. Inouye International Airport in Honolulu. The airline will soon have drive-through testing sites in San Francisco and Los Angeles so Hawaii-bound passengers who test negative can avoid long quarantines.",
+          "copyright": "Marco Garcia/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/travel/30airlinetests/merlin_172036566_077fcc19-47b8-4caf-b13f-bf37f34208e7-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Hawaiian Airlines planes at the Daniel K. Inouye International Airport in Honolulu. The airline will soon have drive-through testing sites in San Francisco and Los Angeles so Hawaii-bound passengers who test negative can avoid long quarantines.",
+          "copyright": "Marco Garcia/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/travel/30airlinetests/merlin_172036566_077fcc19-47b8-4caf-b13f-bf37f34208e7-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Hawaiian Airlines planes at the Daniel K. Inouye International Airport in Honolulu. The airline will soon have drive-through testing sites in San Francisco and Los Angeles so Hawaii-bound passengers who test negative can avoid long quarantines.",
+          "copyright": "Marco Garcia/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/travel/30airlinetests/merlin_172036566_077fcc19-47b8-4caf-b13f-bf37f34208e7-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Hawaiian Airlines planes at the Daniel K. Inouye International Airport in Honolulu. The airline will soon have drive-through testing sites in San Francisco and Los Angeles so Hawaii-bound passengers who test negative can avoid long quarantines.",
+          "copyright": "Marco Garcia/Reuters"
+        }
+      ],
+      "short_url": "https://nyti.ms/36kbuIz"
+    },
+    {
+      "section": "business",
+      "subsection": "media",
+      "title": "In TV Ratings, Trump vs. Biden Was No Match for Trump vs. Clinton",
+      "abstract": "The rise of streaming and familiar characters may have cut into the record viewership of four years ago. Fox News led all networks in audience size, Nielsen said.",
+      "url": "https://www.nytimes.com/2020/09/30/business/media/trump-biden-debate-ratings.html",
+      "uri": "nyt://article/e59ce49c-9a4d-584f-8fa5-5f2f0b73ce9d",
+      "byline": "By John Koblin",
+      "item_type": "Article",
+      "updated_date": "2020-10-01T12:54:22-04:00",
+      "created_date": "2020-09-30T17:28:18-04:00",
+      "published_date": "2020-09-30T17:28:18-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Presidential Election of 2020",
+        "Ratings (Audience Measurement)",
+        "Television",
+        "Debates (Political)"
+      ],
+      "org_facet": [
+        "Nielsen Media Research"
+      ],
+      "per_facet": [
+        "Biden, Joseph R Jr",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/business/01DEBATE-RATINGS1/merlin_177818973_0fc80ba4-1674-4ace-ad67-3b2e2469ed2b-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Television viewership of the debate on Tuesday was down about 13 percent from the first presidential debate in the 2016 race, Nielsen reported.",
+          "copyright": "Mark Makela for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/business/01DEBATE-RATINGS1/merlin_177818973_0fc80ba4-1674-4ace-ad67-3b2e2469ed2b-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Television viewership of the debate on Tuesday was down about 13 percent from the first presidential debate in the 2016 race, Nielsen reported.",
+          "copyright": "Mark Makela for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/business/01DEBATE-RATINGS1/merlin_177818973_0fc80ba4-1674-4ace-ad67-3b2e2469ed2b-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Television viewership of the debate on Tuesday was down about 13 percent from the first presidential debate in the 2016 race, Nielsen reported.",
+          "copyright": "Mark Makela for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/business/01DEBATE-RATINGS1/merlin_177818973_0fc80ba4-1674-4ace-ad67-3b2e2469ed2b-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Television viewership of the debate on Tuesday was down about 13 percent from the first presidential debate in the 2016 race, Nielsen reported.",
+          "copyright": "Mark Makela for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/01/business/01DEBATE-RATINGS1/merlin_177818973_0fc80ba4-1674-4ace-ad67-3b2e2469ed2b-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Television viewership of the debate on Tuesday was down about 13 percent from the first presidential debate in the 2016 race, Nielsen reported.",
+          "copyright": "Mark Makela for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/33f1iiA"
+    },
+    {
+      "section": "business",
+      "subsection": "media",
+      "title": "They Watched the Debate \u2026 on Twitch",
+      "abstract": "The Amazon-owned platform, known for livestreams of video games, was a gathering spot for viewers seeking a different spin.",
+      "url": "https://www.nytimes.com/2020/09/30/business/media/twitch-trump-biden-debate.html",
+      "uri": "nyt://article/3693ff0b-f9f5-5aae-b203-c8ecae1a6ed5",
+      "byline": "By Tiffany Hsu",
+      "item_type": "Article",
+      "updated_date": "2020-10-01T14:39:44-04:00",
+      "created_date": "2020-09-30T17:25:20-04:00",
+      "published_date": "2020-09-30T17:25:20-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Debates (Political)",
+        "Presidential Election of 2020",
+        "Television",
+        "Video Recordings, Downloads and Streaming",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Twitch Interactive Inc"
+      ],
+      "per_facet": [
+        "Biden, Joseph R Jr",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/business/30debate-twitch/merlin_177819846_9b994542-9e79-4cd5-b8cd-a5729625bf65-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1277,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump \u201cknows how to talk like a YouTuber,\u201d one Twitch host said while livestreaming his reactions to the presidential debate on Tuesday.",
+          "copyright": "Ruth Fremson/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/business/30debate-twitch/merlin_177819846_9b994542-9e79-4cd5-b8cd-a5729625bf65-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump \u201cknows how to talk like a YouTuber,\u201d one Twitch host said while livestreaming his reactions to the presidential debate on Tuesday.",
+          "copyright": "Ruth Fremson/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/business/30debate-twitch/merlin_177819846_9b994542-9e79-4cd5-b8cd-a5729625bf65-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump \u201cknows how to talk like a YouTuber,\u201d one Twitch host said while livestreaming his reactions to the presidential debate on Tuesday.",
+          "copyright": "Ruth Fremson/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/business/30debate-twitch/merlin_177819846_9b994542-9e79-4cd5-b8cd-a5729625bf65-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump \u201cknows how to talk like a YouTuber,\u201d one Twitch host said while livestreaming his reactions to the presidential debate on Tuesday.",
+          "copyright": "Ruth Fremson/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/business/30debate-twitch/merlin_177819846_9b994542-9e79-4cd5-b8cd-a5729625bf65-articleInline.jpg",
+          "format": "Normal",
+          "height": 118,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump \u201cknows how to talk like a YouTuber,\u201d one Twitch host said while livestreaming his reactions to the presidential debate on Tuesday.",
+          "copyright": "Ruth Fremson/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3iizL3V"
+    },
+    {
+      "section": "business",
+      "subsection": "media",
+      "title": "The Times Starts Review of \u2018Caliphate\u2019 Podcast After Hoax Charge",
+      "abstract": "The Canadian authorities arrested a man featured in the podcast and accused him of falsely claiming to have been an ISIS executioner.",
+      "url": "https://www.nytimes.com/2020/09/30/business/media/new-york-times-caliphate-podcast.html",
+      "uri": "nyt://article/ed8789aa-842b-5ee7-9584-7e47abc3fcdc",
+      "byline": "By Katie Robertson",
+      "item_type": "Article",
+      "updated_date": "2020-10-02T00:21:20-04:00",
+      "created_date": "2020-09-30T14:36:24-04:00",
+      "published_date": "2020-09-30T14:36:24-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Caliphate (Radio Program)",
+        "Podcasts",
+        "Terrorism",
+        "Hoaxes and Pranks",
+        "News and News Media"
+      ],
+      "org_facet": [
+        "New York Times",
+        "Islamic State in Iraq and Syria (ISIS)"
+      ],
+      "per_facet": [
+        "Chaudhry, Shehroze",
+        "Callimachi, Rukmini Maria (1973- )"
+      ],
+      "geo_facet": [
+        "Syria",
+        "Canada"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/business/30Caliphate-01/30Caliphate-01-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1367,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The New York Times said it would examine how its popular \u201cCaliphate\u201d podcast portrayed a Canadian who said he had participated in Islamic State executions.",
+          "copyright": "September Dawn Bottoms/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/business/30Caliphate-01/30Caliphate-01-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The New York Times said it would examine how its popular \u201cCaliphate\u201d podcast portrayed a Canadian who said he had participated in Islamic State executions.",
+          "copyright": "September Dawn Bottoms/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/business/30Caliphate-01/30Caliphate-01-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The New York Times said it would examine how its popular \u201cCaliphate\u201d podcast portrayed a Canadian who said he had participated in Islamic State executions.",
+          "copyright": "September Dawn Bottoms/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/business/30Caliphate-01/30Caliphate-01-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The New York Times said it would examine how its popular \u201cCaliphate\u201d podcast portrayed a Canadian who said he had participated in Islamic State executions.",
+          "copyright": "September Dawn Bottoms/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/business/30Caliphate-01/30Caliphate-01-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The New York Times said it would examine how its popular \u201cCaliphate\u201d podcast portrayed a Canadian who said he had participated in Islamic State executions.",
+          "copyright": "September Dawn Bottoms/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3ihPmRp"
+    }
+  ]
+}
